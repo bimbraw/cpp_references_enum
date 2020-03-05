@@ -1,4 +1,4 @@
-# cpp_references_enum
+# cpp_references_enum (2 and 3)
 Some code exercises for references and enum in C++
 
 1. Declare a string variable called "name", containing a name of your choice. For example "Cassandra". Next declare three reference variables to "name" variable and name them using the short version of the name you have chosen. Print out in the console all four variables (name and its references) and their addresses.
